@@ -16,3 +16,8 @@ A-Forks are useful when you want to modify an exist public repository by cloning
 Q-What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A-If you will not have internet access shortly, it allows you to solve merge issues later and have the latest update before you continue your code task
+
+
+Q-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A-In the easier camp, we could use a shared drive, but we would have to merge everything manually. In the harder camp we can email each other the file we modified.
